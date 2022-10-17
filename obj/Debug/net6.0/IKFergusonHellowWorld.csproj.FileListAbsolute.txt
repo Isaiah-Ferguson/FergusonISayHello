@@ -1,0 +1,15 @@
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonHellowWorld\bin\Debug\net6.0\IKFergusonHellowWorld.exe
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonHellowWorld\bin\Debug\net6.0\IKFergusonHellowWorld.deps.json
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonHellowWorld\bin\Debug\net6.0\IKFergusonHellowWorld.runtimeconfig.json
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonHellowWorld\bin\Debug\net6.0\IKFergusonHellowWorld.dll
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonHellowWorld\bin\Debug\net6.0\IKFergusonHellowWorld.pdb
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonHellowWorld\obj\Debug\net6.0\IKFergusonHellowWorld.csproj.AssemblyReference.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonHellowWorld\obj\Debug\net6.0\IKFergusonHellowWorld.GeneratedMSBuildEditorConfig.editorconfig
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonHellowWorld\obj\Debug\net6.0\IKFergusonHellowWorld.AssemblyInfoInputs.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonHellowWorld\obj\Debug\net6.0\IKFergusonHellowWorld.AssemblyInfo.cs
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonHellowWorld\obj\Debug\net6.0\IKFergusonHellowWorld.csproj.CoreCompileInputs.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonHellowWorld\obj\Debug\net6.0\IKFergusonHellowWorld.dll
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonHellowWorld\obj\Debug\net6.0\refint\IKFergusonHellowWorld.dll
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonHellowWorld\obj\Debug\net6.0\IKFergusonHellowWorld.pdb
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonHellowWorld\obj\Debug\net6.0\IKFergusonHellowWorld.genruntimeconfig.cache
+C:\Temp\CodeStacklvl1\Week1\MiniChallengeRedux2\IKFergusonHellowWorld\obj\Debug\net6.0\ref\IKFergusonHellowWorld.dll
