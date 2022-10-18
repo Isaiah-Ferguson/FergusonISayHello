@@ -8,6 +8,8 @@ bool truinput = true;
 int trueint = 0;
 bool loop = true;
 while (loop == true)
+
+
 {
 Console.WriteLine("Hello, what is your name?");
 input = Console.ReadLine();
