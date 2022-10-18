@@ -1,7 +1,7 @@
 ﻿//ISAIAH FERGUSON
 //10/17/22
-//MiniChallenge 1 Hello World
-
+//Hello World
+string digits = "1234567890";
 string input = "";
 string iinput = "";
 bool truinput = true;
@@ -16,11 +16,9 @@ input = Console.ReadLine();
 
 truinput = Int32.TryParse(input, out trueint);
 
-if(truinput == true){
+if (input.IndexOfAny(digits.ToCharArray()) != -1){
     Console.WriteLine("Unless your the product of Elon Musk and Grimes I don't think that's your name.");
-}
-if (truinput == false)
-{
+}else{
     Console.WriteLine($"Hello {input} nice to meet you!");
 }
 
