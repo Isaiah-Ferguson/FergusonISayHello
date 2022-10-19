@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\crest\\.nuget\\packages\\": {}
+    "/Users/brandonle/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Temp\\CodeStacklvl1\\Week1\\MiniChallengeRedux2\\IKFergusonHellowWorld\\IKFergusonHellowWorld.csproj",
+      "projectUniqueName": "/Users/brandonle/Desktop/GitRepository/IKFergusonHellowWorld/IKFergusonHellowWorld.csproj",
       "projectName": "IKFergusonHellowWorld",
-      "projectPath": "C:\\Temp\\CodeStacklvl1\\Week1\\MiniChallengeRedux2\\IKFergusonHellowWorld\\IKFergusonHellowWorld.csproj",
-      "packagesPath": "C:\\Users\\crest\\.nuget\\packages\\",
-      "outputPath": "C:\\Temp\\CodeStacklvl1\\Week1\\MiniChallengeRedux2\\IKFergusonHellowWorld\\obj\\",
+      "projectPath": "/Users/brandonle/Desktop/GitRepository/IKFergusonHellowWorld/IKFergusonHellowWorld.csproj",
+      "packagesPath": "/Users/brandonle/.nuget/packages/",
+      "outputPath": "/Users/brandonle/Desktop/GitRepository/IKFergusonHellowWorld/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\crest\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/brandonle/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
